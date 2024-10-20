@@ -22,5 +22,5 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/asmakhan-1/Restaurant
    cd restaurant-website
